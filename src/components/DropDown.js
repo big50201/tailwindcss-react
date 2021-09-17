@@ -27,7 +27,7 @@ const DropDown = ({ isOpen, toggle }) => {
           e.preventDefault();
         }}
       >
-        聯絡
+        聯絡我
       </Link>
     </div>
   );

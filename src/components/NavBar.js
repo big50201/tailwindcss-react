@@ -43,7 +43,7 @@ const NavBar = ({ toggle }) => {
             e.preventDefault();
           }}
         >
-          Contact
+          聯絡我
         </Link>
       </div>
     </nav>
