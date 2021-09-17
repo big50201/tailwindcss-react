@@ -5,7 +5,7 @@ const DropDown = ({ isOpen, toggle }) => {
     <div
       className={
         isOpen
-          ? "grid grid-rows-4 text-center items-ceter bg-red-800 text-white"
+          ? "grid grid-rows-4 text-center items-ceter bg-blue-300 text-white"
           : "hidden"
       }
       onClick={toggle}
@@ -27,7 +27,7 @@ const DropDown = ({ isOpen, toggle }) => {
           e.preventDefault();
         }}
       >
-        Contact
+        聯絡
       </Link>
     </div>
   );

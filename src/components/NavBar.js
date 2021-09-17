@@ -33,7 +33,7 @@ const NavBar = ({ toggle }) => {
           關於
         </Link>
         <Link className="p-4" to="/category">
-          Category
+          展示用示範種類
         </Link>
         <Link
           className="p-4"
